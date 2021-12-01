@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **abdelrahmanfarghali/abdelrahmanfargha<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfarghali" alt="abdelrahmanfarghali" /></a> </p>
@@ -37,4 +36,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
