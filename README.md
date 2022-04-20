@@ -14,6 +14,7 @@
 <a href="https://kaggle.com/abdelrahmankotbamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m" height="30" width="40" /></a>
 <a href="https://instagram.com/m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m" height="30" width="40" /></a>
 <a href="https://discord.gg/m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/profile.php?id=100080210660783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
