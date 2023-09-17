@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<h3 align="center">AI developer from Arabia</h3>
+<h3 align="center">AI and App developer from Arabia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfarghali&theme=onedark" alt="abdelrahmanfarghali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="m" /></a> </p>
+<p align="left"> <a href="https://twitter.com/emperor_dev1996" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="emperor dev 1996" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
