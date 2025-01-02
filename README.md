@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">AI and App developer from Arabia</h3>
+<h3 align="center">AI and App developer from EMEA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfarghali&theme=onedark" alt="abdelrahmanfarghali" /></a> </p>
 
