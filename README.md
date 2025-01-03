@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfarghali&theme=onedark" alt="abdelrahmanfarghali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emperor_dev1996" target="blank"><img src="https://img.shields.io/twitter/follow/emperor_dev1996" alt="emperor dev 1996" /></a> </p>
+<p align="left"> <a href="https://twitter.com/29Jan2k25" target="blank"><img src="https://img.shields.io/twitter/follow/emperor_dev1996" alt="emperor dev 1996" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
