@@ -1,56 +1,209 @@
-### Hi there 👋
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A020&height=200&section=header&text=Abdelrahman%20Farghali&fontSize=42&fontColor=0D1117&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%94%20ERP%20Specialist%20%7C%20Computer%20Scientist&descAlignY=58&descSize=15&descFontColor=0D1117&animation=fadeIn" width="100%" />-->
 
-<h3 align="center">AI and Contributing Dev from EMEA</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfarghali&theme=onedark" alt="abdelrahmanfarghali" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=15&duration=3500&pause=1200&color=E8A020&center=true&vCenter=true&width=700&lines=Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Edge+AI;ERP+Specialist+on+Odoo+%C2%B7+Business+Process+Automation;AI+Product+Engineering+%C2%B7+Generative+AI+Applications;Building+Intelligent+Systems+From+the+Ground+Up;AI+Developer+MENA+Region+From+Arabia;Egyptian+Developer+%C2%B7+Digital+and+Fashion+Literate" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/29Jan2k25" target="blank"><img src="https://img.shields.io/twitter/follow/emperor_dev1996" alt="emperor dev 1996" /></a> </p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/29Jan2k25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelrahman-farghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11261276/adh-far" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="m" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdelrahmankotbamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m" height="30" width="40" /></a>
-<a href="https://instagram.com/a.a.farghali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m" height="30" width="40" /></a>
-<a href="https://discord.gg/5yJ8kEnTRx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m" height="30" width="40" /></a>
- <a href="https://www.facebook.com/profile.php?id=100080210660783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m" height="30" width="40" /></a>
-</p>
+![Location](https://img.shields.io/badge/Asyut%2C%20Egypt-0D1117?style=flat-square&logo=googlemaps&logoColor=E8A020)
+![Status](https://img.shields.io/badge/Open%20to%20Work-0D1117?style=flat-square&logo=checkmarx&logoColor=E8A020)
+![Degree](https://img.shields.io/badge/BSc%20Computer%20Science-0D1117?style=flat-square&logo=academia&logoColor=E8A020)
+![ERP](https://img.shields.io/badge/ERP%20Specialist%20%E2%80%94%20Odoo-0D1117?style=flat-square&logo=odoo&logoColor=E8A020)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanfarghali&style=flat-square&color=E8A020&label=Profile+Views&labelColor=0D1117)](https://github.com/abdelrahmanfarghali)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanfarghali&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abdelrahmanfarghali" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanfarghali&show_icons=true&locale=en&theme=onedark" alt="abdelrahmanfarghali" /></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8A020&height=3" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanfarghali&theme=onedark&" alt="abdelrahmanfarghali" /></p>
+### &nbsp; About
+
+```yaml
+name     : Abdelrahman Kotb Amer Farghali
+role     : AI & ML Engineer · ERP Specialist on Odoo
+focus    : [ Deep Learning, Computer Vision, Edge AI, NLP/RAG, ERP Implementation ]
+degree   : BSc. Computer Science
+awards   : Innovation Award · Startup Idea Recognition
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8A020&height=3" width="100%"/>
+
+<br/>
+
+---
+
+### &nbsp; Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,gcp,linux,git&theme=dark&perline=6" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E8A020)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=E8A020)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=E8A020)
+![GCP](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=E8A020)
+![Odoo](https://img.shields.io/badge/Odoo%20ERP-0D1117?style=for-the-badge&logo=odoo&logoColor=E8A020)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0D1117?style=for-the-badge&logo=intel&logoColor=E8A020)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E8A020)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=E8A020)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=E8A020)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=E8A020)
+
+</div>
+
+<br/>
+
+---
+
+### &nbsp; Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`01` — ML Trading Forecast**
+
+> *Graduation Project · Fintech · Deep Learning*
+
+Led an engineering team in architecting a multi-model forecasting system for financial market prediction. Benchmarked CNN against LSTM and hybrid CNN-LSTM pipelines, with CNN achieving state-of-the-art accuracy on the target dataset.
+
+![CNN](https://img.shields.io/badge/CNN-85%25_Accuracy-E8A020?style=flat-square&labelColor=0D1117)
+![LSTM](https://img.shields.io/badge/LSTM-%3C80%25-8B949E?style=flat-square&labelColor=0D1117)
+
+`CNN` `LSTM` `CNN-LSTM` `Time Series` `Fintech`
+
+</td>
+<td width="50%" valign="top">
+
+**`02` — Pneumonia Detection System**
+
+> *Udacity Graduation · Medical Imaging · Health AI*
+
+Engineered a cloud-deployed medical image classification pipeline for automated pneumonia diagnosis. Applied rigorous evaluation methodology including precision, recall, F1, and AUC to validate clinical-grade model reliability on GCP infrastructure.
+
+![GCP](https://img.shields.io/badge/Deployed-Google_Cloud-E8A020?style=flat-square&labelColor=0D1117)
+
+`CNN` `Transfer Learning` `GCP` `Medical Imaging`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`03` — Edge AI OCR System**
+
+> *Self-Paced · Computer Vision · On-Device Inference*
+
+Designed and deployed a real-time optical character recognition system optimized for edge hardware using the Intel OpenVINO toolkit. Demonstrated practical application in retail environments through live banner text extraction with minimal latency.
+
+![Edge](https://img.shields.io/badge/On--Device-Real--Time_OCR-E8A020?style=flat-square&labelColor=0D1117)
+
+`OpenVINO` `Computer Vision` `OCR` `Edge AI` `Intel`
+
+</td>
+<td width="50%" valign="top">
+
+**`04` — RAG Document QnA System**
+
+> *OSOS Skill Assessment · NLP · Document Intelligence*
+
+Developed a fully offline Retrieval-Augmented Generation system capable of answering natural language queries across heterogeneous document formats. Engineered to preserve source document structure and support retranslation workflows for enterprise-grade document handling.
+
+![Offline](https://img.shields.io/badge/Offline-Enterprise_Ready-E8A020?style=flat-square&labelColor=0D1117)
+
+`RAG` `LLM` `NLP` `PDF` `Excel` `Document AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`05` — Google Flow AI Product Ad**
+
+> *AI Creative · Generative Media · Product Marketing*
+
+Produced an AI-driven product advertisement pipeline leveraging Google's generative media tools and flow-based orchestration to automate high-quality visual ad content creation. Bridged the gap between AI-generated visuals and real-world marketing production standards.
+
+![GenAI](https://img.shields.io/badge/Generative-AI_Advertising-E8A020?style=flat-square&labelColor=0D1117)
+
+`Google Flow` `Generative AI` `Creative Automation` `Ad Tech`
+
+</td>
+<td width="50%" valign="top">
+
+**`06` — Annetle Krosswarnell · AI Fashion Figure**
+
+> *Generative AI · Fashion Tech · AI Character Design*
+
+Conceived and developed a synthetic female fashion model identity — Annetle Krosswarnell — using advanced AI figure generation techniques. Delivered a consistent, photorealistic AI persona suitable for fashion editorial, lookbook production, and brand visual campaigns without physical shoots.
+
+![Fashion](https://img.shields.io/badge/AI-Fashion_Model_Figure-E8A020?style=flat-square&labelColor=0D1117)
+
+`Generative AI` `AI Figures` `Fashion Tech` `Visual Identity`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### &nbsp; Certifications
+
+<div align="center">
+
+| &nbsp; | Certification | Issuer |
+|:---:|:---|:---|
+| 🏅 | Generative AI Nanodegree | Udacity × Bertelsmann |
+| 🏅 | Intel Edge AI | Intel Official |
+| 🏅 | Fashion Design | Coursera × Parsons |
+| 🏅 | AI Product Manager Nanodegree | Udacity × Bertelsmann |
+| 🎖️ | AI Ambassador — 4th Phase | Engineers for Sustainable Egypt |
+| 🌿 | Governance & Sustainability — 18th Phase | Engineers for Sustainable Egypt & Nile University |
+
+</div>
+
+<br/>
+
+---
+
+### &nbsp; GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanfarghali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8A020&icon_color=E8A020&text_color=C9D1D9&ring_color=E8A020" height="160" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanfarghali&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8A020&text_color=C9D1D9" height="160" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanfarghali&hide_border=true&background=0D1117&stroke=E8A020&ring=E8A020&fire=E8A020&currStreakLabel=E8A020&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" height="160" />
+
+</div>
+
+<br/>
+
+---
+
+### &nbsp; Find Me
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A020" />
+<img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=E8A020" />
+<img src="https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=E8A020" />
+<img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=E8A020" />
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=E8A020" />
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E8A020" />
+<img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=E8A020" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A020&height=120&section=footer" width="100%"/>
