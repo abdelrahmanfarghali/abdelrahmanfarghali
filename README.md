@@ -7,9 +7,11 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/Asyut%2C%20Egypt-0D1117?style=flat-square&logo=googlemaps&logoColor=E8A020)
-![Status](https://img.shields.io/badge/Open%20to%20Work-0D1117?style=flat-square&logo=checkmarx&logoColor=E8A020)
+![Status](https://img.shields.io/badge/Online-0D1117?style=flat-square&logo=checkmarx&logoColor=E8A020)
 ![Degree](https://img.shields.io/badge/BSc%20Computer%20Science-0D1117?style=flat-square&logo=academia&logoColor=E8A020)
 ![ERP](https://img.shields.io/badge/ERP%20Specialist%20%E2%80%94%20Odoo-0D1117?style=flat-square&logo=odoo&logoColor=E8A020)
+![Google AI](https://img.shields.io/badge/Google%20AI-0D1117?style=flat-square&logo=googlegemini&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdelrahmanfarghali&style=flat-square&color=E8A020&label=Profile+Views&labelColor=0D1117)](https://github.com/abdelrahmanfarghali)
 
 </div>
@@ -23,7 +25,7 @@
 ```yaml
 name     : Abdelrahman Kotb Amer Farghali
 role     : AI & ML Engineer · ERP Specialist on Odoo
-focus    : [ Deep Learning, Computer Vision, Edge AI, NLP/RAG, ERP Implementation ]
+focus    : [ Deep Learning, Computer Vision, Edge AI, NLP/RAG, ERP Implementation, Agentic AI, AWS ]
 degree   : BSc. Computer Science
 awards   : Innovation Award · Startup Idea Recognition
 ```
@@ -147,6 +149,20 @@ Conceived and developed a synthetic female fashion model identity — Annetle Kr
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**`07` — SentimentSync · AI Event Atmosphere Engine**
+> *PartyRock · Live Sentiment Analysis · Agentic AI · Event Management System*
+
+Designed and deployed an intelligent event companion on PartyRock that organizes events, monitors and responds to attendee sentiment in real time. The system combines a context-aware chatbot with live mood tracking to proactively support guests, de-escalate tension, and amplify positive energy throughout the event lifecycle — from check-in to closing.
+
+![PartyRock](https://img.shields.io/badge/PartyRock-AI_Event_Management-7B2FBE?style=flat-square&labelColor=0D1117)
+
+`PartyRock` `Live Sentiment Analysis` `Agentic AI` `Event Management System`
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -165,6 +181,8 @@ Conceived and developed a synthetic female fashion model identity — Annetle Kr
 | 🏅 | AI Product Manager Nanodegree | Udacity × Bertelsmann |
 | 🎖️ | AI Ambassador — 4th Phase | Engineers for Sustainable Egypt |
 | 🌿 | Governance & Sustainability — 18th Phase | Engineers for Sustainable Egypt & Nile University |
+| 🎖️ | Advanced AI Ambassador — 1st Phase | Engineers for Sustainable Egypt |
+| 🏅 | AWS AI Practitioner Challenge | Udacity × AWS |
 
 </div>
 
@@ -175,10 +193,6 @@ Conceived and developed a synthetic female fashion model identity — Annetle Kr
 ### &nbsp; GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanfarghali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8A020&icon_color=E8A020&text_color=C9D1D9&ring_color=E8A020" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanfarghali&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8A020&text_color=C9D1D9" height="160" />
 
 <br/><br/>
 
@@ -194,13 +208,10 @@ Conceived and developed a synthetic female fashion model identity — Annetle Kr
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A020" />
-<img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=E8A020" />
+
 <img src="https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=E8A020" />
 <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=E8A020" />
 <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=E8A020" />
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E8A020" />
-<img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=E8A020" />
 
 </div>
 
